@@ -1,3 +1,16 @@
+
+# My Static Website
+
+Welcome! 🚀
+
+## Live Website
+
+➡️ [Visit the live site](https://nagavesena21.github.io/static-website/)
+
+## Screenshot
+
+![Website Screenshot](screenshot.jpg)
+
 # Static Website Hosted on GitHub Pages
 
 This is a simple static website created for the DevOps Project using free tools.
