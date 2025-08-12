@@ -1,7 +1,9 @@
 
-# My Static Website
+# Static Website Hosted on GitHub Pages
 
 Welcome! 🚀
+
+This is a simple static website created for the DevOps Project using free tools.
 
 ## Live Website
 
@@ -10,10 +12,6 @@ Welcome! 🚀
 ## Screenshot
 
 ![Website Screenshot](screenshot.png)
-
-# Static Website Hosted on GitHub Pages
-
-This is a simple static website created for the DevOps Project using free tools.
 
 ## Project Structure
 
