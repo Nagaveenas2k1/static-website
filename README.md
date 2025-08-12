@@ -7,7 +7,7 @@ This is a simple static website created for the DevOps Project using free tools.
 
 ## Live Website
 
-➡️ [Visit the live site](https://nagavesena21.github.io/static-website/)
+➡️ [Visit the live site](https://nagaveenas2k1.github.io/static-website/)
 
 ## Screenshot
 
