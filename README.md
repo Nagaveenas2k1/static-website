@@ -9,7 +9,7 @@ Welcome! 🚀
 
 ## Screenshot
 
-![Website Screenshot](screenshot.jpg)
+![Website Screenshot](screenshot.png)
 
 # Static Website Hosted on GitHub Pages
 
